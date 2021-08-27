@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![hello_there](https://i.redd.it/8hkekbti9a221.jpg)
+
 <!--
 **Perthy3000/Perthy3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
